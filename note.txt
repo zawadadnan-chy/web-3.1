@@ -1,0 +1,14 @@
+#0f2656 nb
+
+
+sb #008aff
+
+red #f15767
+
+p #fdebed
+
+#ebf9f4 g
+
+y #fff7e8
+
+ash #eef0f3
